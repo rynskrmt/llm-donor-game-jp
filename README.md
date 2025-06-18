@@ -1,3 +1,6 @@
+# 本リポジトリについて
+本リポジトリは, [llm-donar-game](https://github.com/aronvallinder/llm-donor-game)を日本語化したものです。
+
 # Cultural Evolution of Cooperation Among LLM Agents
 
 This repository implements a framework for studying the cultural evolution of cooperation among LLM agents through an iterated Donor Game. Paper by Aron Vallinder and Edward Hughes: https://arxiv.org/abs/2412.10270
